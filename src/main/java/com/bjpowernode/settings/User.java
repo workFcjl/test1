@@ -9,4 +9,5 @@ package com.bjpowernode.settings;
 public class User {
     private String name;
 
+    private Integer age;
 }
